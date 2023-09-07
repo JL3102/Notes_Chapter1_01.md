@@ -17,4 +17,4 @@
 *The Hardware has all the physical aspects of information in a system, those being the CPU,RAM and hard drives 
 *Hardware is any part of the computer that is a component related a device that is related to computer tech
 ## 1.4 The Four Pillars of an IT Framework
-* Four Pillars are Infrastructure, developement, security , and data
+*Four Pillars are Infrastructure, developement, security , and data
