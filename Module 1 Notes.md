@@ -14,6 +14,7 @@
 *When it comes to IT, it breaks down the basics of hardware and software.
 ## 1.3 Hardware vs Software
 *Working with hardware and software plays a major part in the IT department.
-*The Hardware hjas all the physical aspects of information in a system, those being the CPU,RAM and hard drives 
+*The Hardware has all the physical aspects of information in a system, those being the CPU,RAM and hard drives 
 *Hardware is any part of the computer that is a component related a device that is related to computer tech
 ## 1.4 The Four Pillars of an IT Framework
+* Four Pillars are Infrastructure, developement, security , and data
