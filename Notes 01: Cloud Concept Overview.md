@@ -9,4 +9,4 @@ Only pay for things taht you are going to use, make sure to have acess to sophis
 ## 4. What questions remain in your mind after reading this section?
 Which Program/Service is better to use? would SaaS be more benificial to use over Paas or can you use both services to have the benefits that each give.
 ## 5. What questions remain in your mind after reading this section? 
-Which Program/Service is better to use? would SaaS be more benificial to use over Paas or can you use both services to have the benifits that each give.
+Which Program/Service is better to use? would SaaS be more benificial to use over Paas or can you use both services to have the benifits that each give
