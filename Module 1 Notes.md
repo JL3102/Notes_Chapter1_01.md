@@ -17,7 +17,7 @@
 *The Hardware has all the physical aspects of information in a system, those being the CPU, RAM and hard drives 
 *Hardware is any part of the computer that is a component related to a device that is related to computer tech
 ## 1.4 The Four Pillars of an IT Framework
-*Four Pillars are Infrastructure, development, security, and data
+* Four Pillars are Infrastructure, development, security, and data
 ## 1.5 Common Terminology in IT: Introduction
 * some common terminology in information technology are Job roles and occupations in IT
 * Computer components includes: Motherboard, Central Process Unit, RAM, and Hard drive
