@@ -1,10 +1,10 @@
 # Module 1: Intro to Information Technology
 ## 1.1 What is Information Technology (IT)?
-*What we’ll explore in class Compute, Storage,Networking, Security, Identity, and compliance, Billing and cost management, and more 
-*Cloud computing is an information technology, that utilizes the same terminology
-*Cloud computing relates to governance, operations, software, hardware, and infrastructure
-*To get an understanding of information technology you must expand your knowledge to the horizons
-*Many think of Information Technology as geeks sitting by a phone that await for someone's help with computers.
+* What we’ll explore in class Compute, Storage,Networking, Security, Identity, and compliance, Billing and cost management, and more 
+* Cloud computing is an information technology, that utilizes the same terminology
+* Cloud computing relates to governance, operations, software, hardware, and infrastructure
+* To get an understanding of information technology you must expand your knowledge to the horizons
+* Many think of Information Technology as geeks sitting by a phone that await for someone's help with computers.
 ## 1.2 Why is information Technology important?
 * Most businesses, schools, or organizations would become slow or come to an end without the use of functioning information technology (IT) systems 
 * You would be hard-pressed in order to find a business that relies or partially relies on computers and networks that connect them.
