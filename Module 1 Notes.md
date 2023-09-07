@@ -1,6 +1,6 @@
 # Module 1: Intro to information Technology
 ## 1.1 What is information Technology (IT)?
-*What we’ll explore in class Compute,Storage,Networking, Security, Identity, and compliance, Billing and cost management, and more 
+- What we’ll explore in class Compute,Storage,Networking, Security, Identity, and compliance, Billing and cost management, and more 
 *Cloud computing is a information technology, that utilizes the same terminology
 *Cloud computing relates to governance, operations, software, hardware, and infrastructure
 *To get an understanding of information technology you must expand your knowledge to the horizons
