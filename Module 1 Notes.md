@@ -18,3 +18,4 @@
 *Hardware is any part of the computer that is a component related a device that is related to computer tech
 ## 1.4 The Four Pillars of an IT Framework
 *Four Pillars are Infrastructure, developement, security , and data
+## 1.5 Common Terminology in IT: Introduction
