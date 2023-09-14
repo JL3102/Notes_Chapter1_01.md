@@ -6,6 +6,6 @@
 - Quote 1 "We estimate that moving to AWS will save us at least $3.5 million over five years by reducing our server hardware by more than 90 percent. But the cost savings will likely be greater due to additional benefits, like the increased compute capacity we can get using AWS. That lets us continually add more and larger workloads than we could using a traditional data center infrastructure, and achieve savings by only paying for what we use.” This quote was interesting to me as, are currently learning about AWS and how its benefits can help us.
 - Quote 2 "You can combine your existing accounts into an organization that enables you to manage the accounts centrally. " Its interesting that AWS allows you to combine your accounts together into an existing account
 # 3. Outline the new facts that you learned from this section.
-- Some facts that I've learned in this section is: save when you reserve would allow me to save up to 75% over equivalent to on demand , pay less by using more as it would allow my company to adapt to new changes in the business, and use the right pricing model for the right job,
+- Some facts that I've learned in this section is save when you reserve would allow me to save up to 75% over equivalent to on demand , pay less by using more as it would allow my company to adapt to new changes in the business, and use the right pricing model for the right job,
 # 4. What questions remain in your mind after reading this section?
 - Are there more things that AWS can provide?
