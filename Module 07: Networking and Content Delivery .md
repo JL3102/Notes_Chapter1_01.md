@@ -1,4 +1,4 @@
-# Notes 06: Compute 
+# Notes 07
 ## Questions
 # 1. Summarize a few key points made in the readings or videos.
 * Some key points that were made within the readings were OSI which stands for Open System Interconnection,IP Adress (Internet Protocol Adress, Classless Inter-domain Routing (CIDR)
