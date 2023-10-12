@@ -7,3 +7,5 @@
 * Four Pillars of IT Framework consist of Infrastructure, development, Security, and Data
 * Computer Components Consist of the motherboard, Central Processing Unit (CPU), Random access memory (RAM), and Hard Drive, cooling, power supply, graphic cards(GPU) audiop cards, networking components, input and output devices and peripheral.
 ## Module 02:
+* Deals with AWS Pricing
+* The Cost of 
